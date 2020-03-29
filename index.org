@@ -1,0 +1,21 @@
+#+title: March 27, 2020 Totals
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+
+* Map
+
+#+begin_export html
+<iframe style="height: 50em" width="100%" src="./map_cases_per_mil.html"></iframe>
+#+end_export
+
+* Bar Chart
+
+#+begin_export html
+<iframe style="height: 50em" width="100%" src="./bar_chart.html"></iframe>
+#+end_export
+
+* Scatter Plot
+
+
+#+begin_export html
+<iframe style="height: 30em" width="100%" src="./health_scatter.html"></iframe>
+#+end_export
